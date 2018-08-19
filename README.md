@@ -19,7 +19,7 @@ There are several example states in the `worlds` folder.
 ## Example
 
 ```
-stack exec Life 5 worlds/lwss.png out
+stack exec Life 30 worlds/lwss.png out
 ```
 
 ![Example: Generation 0](example/0.png)
@@ -33,6 +33,26 @@ stack exec Life 5 worlds/lwss.png out
 ![Example: Generation 8](example/8.png)
 ![Example: Generation 9](example/9.png)
 ![Example: Generation 10](example/10.png)
+![Example: Generation 11](example/11.png)
+![Example: Generation 12](example/12.png)
+![Example: Generation 13](example/13.png)
+![Example: Generation 14](example/14.png)
+![Example: Generation 15](example/15.png)
+![Example: Generation 16](example/16.png)
+![Example: Generation 17](example/17.png)
+![Example: Generation 18](example/18.png)
+![Example: Generation 19](example/19.png)
+![Example: Generation 20](example/20.png)
+![Example: Generation 21](example/21.png)
+![Example: Generation 22](example/22.png)
+![Example: Generation 23](example/23.png)
+![Example: Generation 24](example/24.png)
+![Example: Generation 25](example/25.png)
+![Example: Generation 26](example/26.png)
+![Example: Generation 27](example/27.png)
+![Example: Generation 28](example/28.png)
+![Example: Generation 29](example/29.png)
+![Example: Generation 30](example/30.png)
 
 ## License
 MIT.
