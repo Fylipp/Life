@@ -8,7 +8,7 @@ stack exec Life <ITERATIONS> <INTIAL_STATE_FILE> <OUTPUT_FOLDER>
 ```
 
 - **ITERATIONS**: The amount of discrete iterations to perform on the initial state.
-- **INITIAL_STATE_FILE**: Path to a `.png` file containing the initial state. The image must use *black* (exactly *#000000*) pixels to represent *alive* cells and other pixels (preferably *white*) to represent *dead* cells. The size of the initial state determines the size of the simulation.
+- **INITIAL_STATE_FILE**: Path to a `.png` file containing the initial state. The image must use *black* (exactly *#000000*) pixels to represent *alive* cells and *white* (exactly #FFFFFF) to represent *dead* cells. The size of the initial state determines the size of the simulation.
 - **OUTPUT_FOLDER**: The folder where the output images (also `.png`) are stored. The images are named by their generation (`0.png`, `1.png`, ...) where generation 0 is the initial state. If the directory does not exist
 it will be created.
 
